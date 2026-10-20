@@ -4,7 +4,7 @@ Public Bucket link: https://public-dfp6sx.s3.amazonaws.com/index.html
 
 Secret Bucket link: https://secret-dfp6sx.s3.amazonaws.com/pg55705.txt?AWSAccessKeyId=ASIAQ2MQTKOP4UR5G4ZP&Signature=DnbgeDyYIcRFQdqSvP5QJrj8%2FK4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEHQaCXVzLXdlc3QtMiJHMEUCIH5t5R3ot03pk83KLUxtZhnJ7woww0qVc%2BK3hvaRXDjDAiEA8gYHmAiHthhCc8vSwckKdtvEBx9OWaQArl3qm%2BjnxucqrQIIPRAAGgwwNTY2NzQ3MDIyMzkiDB6N1KqbBEgieaxaOiqKAgW0HQcHxbeYr%2FQZEFAgQJYi0QoaUBRy8VCfoKSntEzKIou9ZAOD4XwfcX0ZKwXOYprL62WPhLE1Zp9Q1FCAsg28dYq74rD6ZPi34afuT6wEjXuFqYfVBdCSCgJ%2BwltfHcH5Phu0uKUT%2FUngZOUNfuFGYoqrkqo5qPHSwVfs9xuvEvOpaOTlJ2XG3u7nFuijTtHMWF3zGXacka9okxItw8vkoL0YdGWq6K58H%2BU5arOMLoqwJs1QHmzrqjCeaDHji19SYnkpstvRLz%2FeB6wXAsaKpod7Rk8dLEQIYCbxOuxrh01x9zQcESguxhBTuNtFFBg4PylWGA5PrGzVVDIBb82teXQ7AXATrZGBMNq%2B29YGOp0BMVnskDMSyxBHMNjvaX1RhL7W90TSz35k7yZQ%2Fi%2FWknpcnYkbdKGzCFf%2FyVi3kMF1X1lhDX6hXAianLsUhRhF4XuxQ3sZgjUQwmAbOCAUXaOlKqcsxYYfjtMd38GSN%2BGmCwKzf3VG5ehZeyRJjzdWs0HTL%2FG1fG2bscqyM7D8jPkYEGInyz11L7D17O9eWuHCEDwozN6svrba%2FVzmYg%3D%3D&Expires=1793074554 
 
-I would choose a public bucket when I want data and information openly available to anyone and to stay accessible without a time limit. I would choose a presigned URL when I want the data and information to be private but I need give someone like a collaborator temporary access to a file.
+I would choose a public bucket when I want data and information openly available to anyone and to stay accessible without a time limit. I would choose a presigned URL when I want the data and information to be private but I need to give someone like a collaborator temporary access to a file.
 
 # Lab 06: Working with S3 Storage
 
